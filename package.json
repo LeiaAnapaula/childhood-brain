@@ -1,0 +1,24 @@
+{
+  "name": "childhood-brain",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "bun run generate.ts",
+    "people": "bun run evals/data/synthetic/generate.ts",
+    "server": "bun run server.ts",
+    "sync": "bun run scripts/reset.ts",
+    "reset": "bun run scripts/reset.ts",
+    "eval": "bun run evals/runner.ts",
+    "lineup": "bun run evals/lineup.ts",
+    "parity": "bun run scripts/check-prototype-parity.ts",
+    "quiz-evals": "bun run evals/run.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.128.0",
+    "zod": "^4.6.5"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "childhood-brain intake: one person",
+  "description": "A person is a list of typed facts. A childhood is parents + school + life-changing events; city and decade are ordinary facts. Consented entries go in evals/data/consented/ (gitignored) after CONSENT.md is followed.",
+  "type": "object",
+  "required": ["id", "name", "bucket", "consent", "facts"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "name": { "type": "string", "description": "first name or chosen name; never a full legal name" },
+    "bucket": { "type": "string", "description": "demographic bucket used to pick self_recognition decoys, e.g. 1990s/north-america" },
+    "consent": { "enum": ["synthetic", "consented", "public"], "description": "synthetic = generated; consented = a real participant per CONSENT.md, under evals/data/consented/; public = a public figure reconstructed from public sources, under evals/data/public/" },
+    "facts": {
+      "type": "array", "minItems": 8,
+      "items": {
+        "type": "object", "required": ["field", "type", "value"],
+        "properties": {
+          "field": { "type": "string" },
+          "type": { "enum": ["facts", "preferences", "fears", "stress", "fragments"] },
+          "value": { "type": "string" }
+        }
+      }
+    }
+  },
+  "x-fields": {
+    "facts": ["name", "city", "decade", "parent1", "parent2", "school", "event1", "event2", "event3", "event4"],
+    "preferences": ["comfort", "way_of_loving"],
+    "fears": ["core_fear", "social_fear"],
+    "stress": ["under_stress", "under_conflict"],
+    "fragments": ["fragment_1", "fragment_2", "fragment_3", "fragment_4"],
+    "note": "parent*/school/event* take seed slugs from evals/brains/prototype-data.ts; fragments are first-person memory lines; event slots may be 'none'."
+  }
+}

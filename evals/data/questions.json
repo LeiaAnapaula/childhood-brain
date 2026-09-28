@@ -1,0 +1,322 @@
+[
+  {
+    "field": "name",
+    "type": "facts",
+    "phrasings": [
+      "What was your first name?",
+      "Tell me your first name.",
+      "Do you remember your first name?",
+      "If you had to name your first name, what would it be?",
+      "Describe your first name in a few words.",
+      "Your first name: what is it?",
+      "Looking back, what was your first name?",
+      "Give me your first name, as plainly as you can.",
+      "I want to know your first name.",
+      "Can you say what your first name was?"
+    ]
+  },
+  {
+    "field": "city",
+    "type": "facts",
+    "phrasings": [
+      "What was the city you grew up in?",
+      "Tell me the city you grew up in.",
+      "Do you remember the city you grew up in?",
+      "If you had to name the city you grew up in, what would it be?",
+      "Describe the city you grew up in in a few words.",
+      "The city you grew up in: what is it?",
+      "Looking back, what was the city you grew up in?",
+      "Give me the city you grew up in, as plainly as you can.",
+      "I want to know the city you grew up in.",
+      "Can you say what the city you grew up in was?"
+    ]
+  },
+  {
+    "field": "decade",
+    "type": "facts",
+    "phrasings": [
+      "What was the decade you were born in?",
+      "Tell me the decade you were born in.",
+      "Do you remember the decade you were born in?",
+      "If you had to name the decade you were born in, what would it be?",
+      "Describe the decade you were born in in a few words.",
+      "The decade you were born in: what is it?",
+      "Looking back, what was the decade you were born in?",
+      "Give me the decade you were born in, as plainly as you can.",
+      "I want to know the decade you were born in.",
+      "Can you say what the decade you were born in was?"
+    ]
+  },
+  {
+    "field": "parent1",
+    "type": "facts",
+    "phrasings": [
+      "What was the first adult in your house?",
+      "Tell me the first adult in your house.",
+      "Do you remember the first adult in your house?",
+      "If you had to name the first adult in your house, what would it be?",
+      "Describe the first adult in your house in a few words.",
+      "The first adult in your house: what is it?",
+      "Looking back, what was the first adult in your house?",
+      "Give me the first adult in your house, as plainly as you can.",
+      "I want to know the first adult in your house.",
+      "Can you say what the first adult in your house was?"
+    ]
+  },
+  {
+    "field": "parent2",
+    "type": "facts",
+    "phrasings": [
+      "What was the second adult in your house, or the one who was missing?",
+      "Tell me the second adult in your house, or the one who was missing.",
+      "Do you remember the second adult in your house, or the one who was missing?",
+      "If you had to name the second adult in your house, or the one who was missing, what would it be?",
+      "Describe the second adult in your house, or the one who was missing in a few words.",
+      "The second adult in your house, or the one who was missing: what is it?",
+      "Looking back, what was the second adult in your house, or the one who was missing?",
+      "Give me the second adult in your house, or the one who was missing, as plainly as you can.",
+      "I want to know the second adult in your house, or the one who was missing.",
+      "Can you say what the second adult in your house, or the one who was missing was?"
+    ]
+  },
+  {
+    "field": "school",
+    "type": "facts",
+    "phrasings": [
+      "What was the school where you learned your rank?",
+      "Tell me the school where you learned your rank.",
+      "Do you remember the school where you learned your rank?",
+      "If you had to name the school where you learned your rank, what would it be?",
+      "Describe the school where you learned your rank in a few words.",
+      "The school where you learned your rank: what is it?",
+      "Looking back, what was the school where you learned your rank?",
+      "Give me the school where you learned your rank, as plainly as you can.",
+      "I want to know the school where you learned your rank.",
+      "Can you say what the school where you learned your rank was?"
+    ]
+  },
+  {
+    "field": "event1",
+    "type": "facts",
+    "phrasings": [
+      "What was the event that changed how you weighed everything after?",
+      "Tell me the event that changed how you weighed everything after.",
+      "Do you remember the event that changed how you weighed everything after?",
+      "If you had to name the event that changed how you weighed everything after, what would it be?",
+      "Describe the event that changed how you weighed everything after in a few words.",
+      "The event that changed how you weighed everything after: what is it?",
+      "Looking back, what was the event that changed how you weighed everything after?",
+      "Give me the event that changed how you weighed everything after, as plainly as you can.",
+      "I want to know the event that changed how you weighed everything after.",
+      "Can you say what the event that changed how you weighed everything after was?"
+    ]
+  },
+  {
+    "field": "event2",
+    "type": "facts",
+    "phrasings": [
+      "What was the thing you refused to become?",
+      "Tell me the thing you refused to become.",
+      "Do you remember the thing you refused to become?",
+      "If you had to name the thing you refused to become, what would it be?",
+      "Describe the thing you refused to become in a few words.",
+      "The thing you refused to become: what is it?",
+      "Looking back, what was the thing you refused to become?",
+      "Give me the thing you refused to become, as plainly as you can.",
+      "I want to know the thing you refused to become.",
+      "Can you say what the thing you refused to become was?"
+    ]
+  },
+  {
+    "field": "event3",
+    "type": "facts",
+    "phrasings": [
+      "What was the thing you carried that was not yours?",
+      "Tell me the thing you carried that was not yours.",
+      "Do you remember the thing you carried that was not yours?",
+      "If you had to name the thing you carried that was not yours, what would it be?",
+      "Describe the thing you carried that was not yours in a few words.",
+      "The thing you carried that was not yours: what is it?",
+      "Looking back, what was the thing you carried that was not yours?",
+      "Give me the thing you carried that was not yours, as plainly as you can.",
+      "I want to know the thing you carried that was not yours.",
+      "Can you say what the thing you carried that was not yours was?"
+    ]
+  },
+  {
+    "field": "event4",
+    "type": "facts",
+    "phrasings": [
+      "What was the thing you have never put down?",
+      "Tell me the thing you have never put down.",
+      "Do you remember the thing you have never put down?",
+      "If you had to name the thing you have never put down, what would it be?",
+      "Describe the thing you have never put down in a few words.",
+      "The thing you have never put down: what is it?",
+      "Looking back, what was the thing you have never put down?",
+      "Give me the thing you have never put down, as plainly as you can.",
+      "I want to know the thing you have never put down.",
+      "Can you say what the thing you have never put down was?"
+    ]
+  },
+  {
+    "field": "comfort",
+    "type": "preferences",
+    "phrasings": [
+      "What was what you reach for when you need comfort?",
+      "Tell me what you reach for when you need comfort.",
+      "Do you remember what you reach for when you need comfort?",
+      "If you had to name what you reach for when you need comfort, what would it be?",
+      "Describe what you reach for when you need comfort in a few words.",
+      "What you reach for when you need comfort: what is it?",
+      "Looking back, what was what you reach for when you need comfort?",
+      "Give me what you reach for when you need comfort, as plainly as you can.",
+      "I want to know what you reach for when you need comfort.",
+      "Can you say what what you reach for when you need comfort was?"
+    ]
+  },
+  {
+    "field": "way_of_loving",
+    "type": "preferences",
+    "phrasings": [
+      "What was the way you learned to love?",
+      "Tell me the way you learned to love.",
+      "Do you remember the way you learned to love?",
+      "If you had to name the way you learned to love, what would it be?",
+      "Describe the way you learned to love in a few words.",
+      "The way you learned to love: what is it?",
+      "Looking back, what was the way you learned to love?",
+      "Give me the way you learned to love, as plainly as you can.",
+      "I want to know the way you learned to love.",
+      "Can you say what the way you learned to love was?"
+    ]
+  },
+  {
+    "field": "core_fear",
+    "type": "fears",
+    "phrasings": [
+      "What was your core fear?",
+      "Tell me your core fear.",
+      "Do you remember your core fear?",
+      "If you had to name your core fear, what would it be?",
+      "Describe your core fear in a few words.",
+      "Your core fear: what is it?",
+      "Looking back, what was your core fear?",
+      "Give me your core fear, as plainly as you can.",
+      "I want to know your core fear.",
+      "Can you say what your core fear was?"
+    ]
+  },
+  {
+    "field": "social_fear",
+    "type": "fears",
+    "phrasings": [
+      "What was what you fear in front of other people?",
+      "Tell me what you fear in front of other people.",
+      "Do you remember what you fear in front of other people?",
+      "If you had to name what you fear in front of other people, what would it be?",
+      "Describe what you fear in front of other people in a few words.",
+      "What you fear in front of other people: what is it?",
+      "Looking back, what was what you fear in front of other people?",
+      "Give me what you fear in front of other people, as plainly as you can.",
+      "I want to know what you fear in front of other people.",
+      "Can you say what what you fear in front of other people was?"
+    ]
+  },
+  {
+    "field": "under_stress",
+    "type": "stress",
+    "phrasings": [
+      "What was what you do under stress?",
+      "Tell me what you do under stress.",
+      "Do you remember what you do under stress?",
+      "If you had to name what you do under stress, what would it be?",
+      "Describe what you do under stress in a few words.",
+      "What you do under stress: what is it?",
+      "Looking back, what was what you do under stress?",
+      "Give me what you do under stress, as plainly as you can.",
+      "I want to know what you do under stress.",
+      "Can you say what what you do under stress was?"
+    ]
+  },
+  {
+    "field": "under_conflict",
+    "type": "stress",
+    "phrasings": [
+      "What was what you do in a conflict?",
+      "Tell me what you do in a conflict.",
+      "Do you remember what you do in a conflict?",
+      "If you had to name what you do in a conflict, what would it be?",
+      "Describe what you do in a conflict in a few words.",
+      "What you do in a conflict: what is it?",
+      "Looking back, what was what you do in a conflict?",
+      "Give me what you do in a conflict, as plainly as you can.",
+      "I want to know what you do in a conflict.",
+      "Can you say what what you do in a conflict was?"
+    ]
+  },
+  {
+    "field": "fragment_1",
+    "type": "fragments",
+    "phrasings": [
+      "What was your memory line about the first adult in your house?",
+      "Tell me your memory line about the first adult in your house.",
+      "Do you remember your memory line about the first adult in your house?",
+      "If you had to name your memory line about the first adult in your house, what would it be?",
+      "Describe your memory line about the first adult in your house in a few words.",
+      "Your memory line about the first adult in your house: what is it?",
+      "Looking back, what was your memory line about the first adult in your house?",
+      "Give me your memory line about the first adult in your house, as plainly as you can.",
+      "I want to know your memory line about the first adult in your house.",
+      "Can you say what your memory line about the first adult in your house was?"
+    ]
+  },
+  {
+    "field": "fragment_2",
+    "type": "fragments",
+    "phrasings": [
+      "What was your memory line about school?",
+      "Tell me your memory line about school.",
+      "Do you remember your memory line about school?",
+      "If you had to name your memory line about school, what would it be?",
+      "Describe your memory line about school in a few words.",
+      "Your memory line about school: what is it?",
+      "Looking back, what was your memory line about school?",
+      "Give me your memory line about school, as plainly as you can.",
+      "I want to know your memory line about school.",
+      "Can you say what your memory line about school was?"
+    ]
+  },
+  {
+    "field": "fragment_3",
+    "type": "fragments",
+    "phrasings": [
+      "What was your memory line about the event that changed everything?",
+      "Tell me your memory line about the event that changed everything.",
+      "Do you remember your memory line about the event that changed everything?",
+      "If you had to name your memory line about the event that changed everything, what would it be?",
+      "Describe your memory line about the event that changed everything in a few words.",
+      "Your memory line about the event that changed everything: what is it?",
+      "Looking back, what was your memory line about the event that changed everything?",
+      "Give me your memory line about the event that changed everything, as plainly as you can.",
+      "I want to know your memory line about the event that changed everything.",
+      "Can you say what your memory line about the event that changed everything was?"
+    ]
+  },
+  {
+    "field": "fragment_4",
+    "type": "fragments",
+    "phrasings": [
+      "What was your memory line about what you refused to become?",
+      "Tell me your memory line about what you refused to become.",
+      "Do you remember your memory line about what you refused to become?",
+      "If you had to name your memory line about what you refused to become, what would it be?",
+      "Describe your memory line about what you refused to become in a few words.",
+      "Your memory line about what you refused to become: what is it?",
+      "Looking back, what was your memory line about what you refused to become?",
+      "Give me your memory line about what you refused to become, as plainly as you can.",
+      "I want to know your memory line about what you refused to become.",
+      "Can you say what your memory line about what you refused to become was?"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+node_modules/
+evals/results/*.json
+evals/data/consented/*
+!evals/data/consented/.gitkeep
+.scratch-home/
+brain/people/*.md
+!brain/people/person-tester-*.md
+.env
+.env.*
+.server.log
+.vercel

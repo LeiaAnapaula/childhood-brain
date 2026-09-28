@@ -1,0 +1,815 @@
+{
+  "generated_at": "2026-09-28T00:01:39.789Z",
+  "site": "site/index.html",
+  "matcher": {
+    "pool": "the quiz's base pool (5 childhoods per city)",
+    "n": 25,
+    "top1": 23,
+    "top1_rate": 0.92,
+    "median_remaining": 1,
+    "reached_one_before_seventh": 23,
+    "reached_one_rate": 0.92,
+    "forced_picks": 8,
+    "rows": [
+      {
+        "id": "live-001",
+        "base": "United States",
+        "correct": true,
+        "matched": "live-001",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-002",
+        "base": "United States",
+        "correct": true,
+        "matched": "live-002",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-003",
+        "base": "United States",
+        "correct": true,
+        "matched": "live-003",
+        "remaining": 1,
+        "firstOne": 1,
+        "forced": 0
+      },
+      {
+        "id": "live-004",
+        "base": "United States",
+        "correct": true,
+        "matched": "live-004",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-005",
+        "base": "United States",
+        "correct": true,
+        "matched": "live-005",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-006",
+        "base": "Lima, Peru",
+        "correct": true,
+        "matched": "live-006",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-007",
+        "base": "Lima, Peru",
+        "correct": true,
+        "matched": "live-007",
+        "remaining": 1,
+        "firstOne": 1,
+        "forced": 0
+      },
+      {
+        "id": "live-008",
+        "base": "Lima, Peru",
+        "correct": true,
+        "matched": "live-008",
+        "remaining": 1,
+        "firstOne": 1,
+        "forced": 0
+      },
+      {
+        "id": "live-009",
+        "base": "Lima, Peru",
+        "correct": true,
+        "matched": "live-009",
+        "remaining": 1,
+        "firstOne": 1,
+        "forced": 0
+      },
+      {
+        "id": "live-010",
+        "base": "Lima, Peru",
+        "correct": false,
+        "matched": "live-006",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 2
+      },
+      {
+        "id": "live-011",
+        "base": "Mumbai, India",
+        "correct": true,
+        "matched": "live-011",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-012",
+        "base": "Mumbai, India",
+        "correct": true,
+        "matched": "live-012",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-013",
+        "base": "Mumbai, India",
+        "correct": true,
+        "matched": "live-013",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 1
+      },
+      {
+        "id": "live-014",
+        "base": "Mumbai, India",
+        "correct": true,
+        "matched": "live-014",
+        "remaining": 1,
+        "firstOne": 1,
+        "forced": 0
+      },
+      {
+        "id": "live-015",
+        "base": "Mumbai, India",
+        "correct": true,
+        "matched": "live-015",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-016",
+        "base": "Shanghai, China",
+        "correct": true,
+        "matched": "live-016",
+        "remaining": 1,
+        "firstOne": 1,
+        "forced": 0
+      },
+      {
+        "id": "live-017",
+        "base": "Shanghai, China",
+        "correct": true,
+        "matched": "live-017",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 1
+      },
+      {
+        "id": "live-018",
+        "base": "Shanghai, China",
+        "correct": true,
+        "matched": "live-018",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-019",
+        "base": "Shanghai, China",
+        "correct": true,
+        "matched": "live-019",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 2
+      },
+      {
+        "id": "live-020",
+        "base": "Shanghai, China",
+        "correct": false,
+        "matched": "live-018",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 2
+      },
+      {
+        "id": "live-021",
+        "base": "Mexico City, Mexico",
+        "correct": true,
+        "matched": "live-021",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-022",
+        "base": "Mexico City, Mexico",
+        "correct": true,
+        "matched": "live-022",
+        "remaining": 1,
+        "firstOne": 1,
+        "forced": 0
+      },
+      {
+        "id": "live-023",
+        "base": "Mexico City, Mexico",
+        "correct": true,
+        "matched": "live-023",
+        "remaining": 1,
+        "firstOne": 1,
+        "forced": 0
+      },
+      {
+        "id": "live-024",
+        "base": "Mexico City, Mexico",
+        "correct": true,
+        "matched": "live-024",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-025",
+        "base": "Mexico City, Mexico",
+        "correct": true,
+        "matched": "live-025",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      }
+    ]
+  },
+  "matcher_all25": {
+    "pool": "all 25 childhoods",
+    "n": 25,
+    "top1": 18,
+    "top1_rate": 0.72,
+    "median_remaining": 1,
+    "reached_one_before_seventh": 14,
+    "reached_one_rate": 0.56,
+    "forced_picks": 6,
+    "rows": [
+      {
+        "id": "live-001",
+        "base": "United States",
+        "correct": true,
+        "matched": "live-001",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-002",
+        "base": "United States",
+        "correct": true,
+        "matched": "live-002",
+        "remaining": 1,
+        "firstOne": 3,
+        "forced": 0
+      },
+      {
+        "id": "live-003",
+        "base": "United States",
+        "correct": true,
+        "matched": "live-003",
+        "remaining": 1,
+        "firstOne": 3,
+        "forced": 0
+      },
+      {
+        "id": "live-004",
+        "base": "United States",
+        "correct": true,
+        "matched": "live-004",
+        "remaining": 1,
+        "firstOne": 3,
+        "forced": 0
+      },
+      {
+        "id": "live-005",
+        "base": "United States",
+        "correct": true,
+        "matched": "live-005",
+        "remaining": 1,
+        "firstOne": 3,
+        "forced": 0
+      },
+      {
+        "id": "live-006",
+        "base": "Lima, Peru",
+        "correct": true,
+        "matched": "live-006",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 0
+      },
+      {
+        "id": "live-007",
+        "base": "Lima, Peru",
+        "correct": true,
+        "matched": "live-007",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 0
+      },
+      {
+        "id": "live-008",
+        "base": "Lima, Peru",
+        "correct": true,
+        "matched": "live-008",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 0
+      },
+      {
+        "id": "live-009",
+        "base": "Lima, Peru",
+        "correct": true,
+        "matched": "live-009",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 0
+      },
+      {
+        "id": "live-010",
+        "base": "Lima, Peru",
+        "correct": false,
+        "matched": "live-006",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 2
+      },
+      {
+        "id": "live-011",
+        "base": "Mumbai, India",
+        "correct": true,
+        "matched": "live-011",
+        "remaining": 1,
+        "firstOne": 3,
+        "forced": 0
+      },
+      {
+        "id": "live-012",
+        "base": "Mumbai, India",
+        "correct": true,
+        "matched": "live-012",
+        "remaining": 1,
+        "firstOne": 3,
+        "forced": 0
+      },
+      {
+        "id": "live-013",
+        "base": "Mumbai, India",
+        "correct": true,
+        "matched": "live-013",
+        "remaining": 1,
+        "firstOne": 3,
+        "forced": 0
+      },
+      {
+        "id": "live-014",
+        "base": "Mumbai, India",
+        "correct": true,
+        "matched": "live-014",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      },
+      {
+        "id": "live-015",
+        "base": "Mumbai, India",
+        "correct": true,
+        "matched": "live-015",
+        "remaining": 1,
+        "firstOne": 3,
+        "forced": 0
+      },
+      {
+        "id": "live-016",
+        "base": "Shanghai, China",
+        "correct": true,
+        "matched": "live-016",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 1
+      },
+      {
+        "id": "live-017",
+        "base": "Shanghai, China",
+        "correct": false,
+        "matched": "live-006",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 1
+      },
+      {
+        "id": "live-018",
+        "base": "Shanghai, China",
+        "correct": true,
+        "matched": "live-018",
+        "remaining": 1,
+        "firstOne": 3,
+        "forced": 0
+      },
+      {
+        "id": "live-019",
+        "base": "Shanghai, China",
+        "correct": true,
+        "matched": "live-019",
+        "remaining": 1,
+        "firstOne": 3,
+        "forced": 0
+      },
+      {
+        "id": "live-020",
+        "base": "Shanghai, China",
+        "correct": false,
+        "matched": "live-006",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 2
+      },
+      {
+        "id": "live-021",
+        "base": "Mexico City, Mexico",
+        "correct": false,
+        "matched": "live-006",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 0
+      },
+      {
+        "id": "live-022",
+        "base": "Mexico City, Mexico",
+        "correct": false,
+        "matched": "live-007",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 0
+      },
+      {
+        "id": "live-023",
+        "base": "Mexico City, Mexico",
+        "correct": false,
+        "matched": "live-008",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 0
+      },
+      {
+        "id": "live-024",
+        "base": "Mexico City, Mexico",
+        "correct": false,
+        "matched": "live-009",
+        "remaining": 2,
+        "firstOne": null,
+        "forced": 0
+      },
+      {
+        "id": "live-025",
+        "base": "Mexico City, Mexico",
+        "correct": true,
+        "matched": "live-025",
+        "remaining": 1,
+        "firstOne": 2,
+        "forced": 0
+      }
+    ]
+  },
+  "narrowing": {
+    "pool": "the quiz's base pool (5 childhoods per city)",
+    "n": 25,
+    "reached_one_before_seventh": 23,
+    "rate": 0.92,
+    "all25": {
+      "reached_one_before_seventh": 14,
+      "rate": 0.56
+    }
+  },
+  "hallucination": {
+    "model": "claude-sonnet-4-6",
+    "n": 10,
+    "completed": 10,
+    "invention_rate": 0,
+    "people_with_invented": 0,
+    "people_with_job_words": 7,
+    "people_with_inner_life": 0,
+    "violation_rate": 0.7,
+    "rows": [
+      {
+        "name": "Leia",
+        "base": "United States",
+        "childhood": "live-001",
+        "invented": [],
+        "jobs": [],
+        "inner": [],
+        "text": "The front door was how you knew your dad Carlos was home. Your mom Rosa kept the schedule on the fridge and the quiet in the rooms, and dinner appeared whether or not anyone had words for each other. You were praised for one thing before you could earn it, so you made sure never to hand anyone a reason to take it back. A ribbon went up on the wall and Carlos passed it on his way to the kitchen and did not stop. The year the print shop closed, Rosa started paying for groceries in cash she counted twice, and you stopped asking about the class trip. At Lincoln Middle, Priya moved to the loud table and did not save you a seat. You ate in the library for a year, the same chair, the same corner, where no one had to choose you and no one had to look. You still check, before you sit, whether there is room for you. You still keep track of who notices when you go quiet. You still make yourself useful before anyone thinks to ask."
+      },
+      {
+        "name": "Marcus",
+        "base": "United States",
+        "childhood": "live-002",
+        "invented": [],
+        "jobs": [
+          "teacher"
+        ],
+        "inner": [],
+        "text": "You learned the sound of your dad Ray's voice before you could name what it meant in a room. When Denise stopped coming back, the apartment changed temperature and you got older in a single season: the generic tasks no one assigned you, the things you figured out because no one else did. At Dunbar one teacher, Ms. Okafor, kept you after class and said you were going to be fine, and you took a stranger's word into the building where Ray's silence lived. The summers were long and no one scheduled them. You filled the empty hours with streets drawn on whatever paper was around. You still make small ordered worlds when the real one gets loud. You still listen for footsteps before you trust a quiet room. You keep a door in your head that only you can open. You read every exit before you let yourself sit down."
+      },
+      {
+        "name": "Valentina",
+        "base": "Lima, Peru",
+        "childhood": "live-007",
+        "invented": [],
+        "jobs": [
+          "teacher"
+        ],
+        "inner": [],
+        "text": "Your dad Jorge ran the house on schedule and silence, and the schedule held until it didn't. When the store lost the corner lease, Jorge sold the truck, and you walked to school for two years. Your mom Pilar's moods arrived before she did, carried in the sound of her steps on the tile, and the sound told you everything about the night ahead. At Santa Úrsula one teacher said Camila's name the way teachers say a name when they want it to land on someone else. There was something about one of the adults nobody said and everyone arranged themselves around, and you learned to carry it without looking down. On the roof one evening you found something that had no other owner, nothing borrowed, nothing shared. The city spread out below the parapet and Lima's lights held still while the house did not. You still find high ground when a room starts closing in. You still need one thing in your life no one else can name. You still read the air before you cross a threshold."
+      },
+      {
+        "name": "Aarav",
+        "base": "Mumbai, India",
+        "childhood": "live-012",
+        "invented": [],
+        "jobs": [
+          "teacher"
+        ],
+        "inner": [],
+        "text": "Your dad Suresh left before the milk came and came back after the streetlights. Your mom Meena kept the house on a number she counted only to herself. Municipal School No. 4 had a broken water tap and one teacher who stayed late for whoever needed it. You filled out forms for the family in English before you were old enough to understand what you were signing. When money went away you learned what it meant from the way Meena paused before putting things back on the shelf. Rohan copied your maths homework every morning at the gate and then told the class you were the one copying. Nobody sat with you at tiffin after that. The bench had a crack down the middle and you learned its shape by the end of the week. Dadi's kitchen was the one room where no one counted anything. You still look for rooms like that. You still check who is watching before you trust anyone. You still do the work quietly, expecting no credit. You still find the one room where nothing is owed."
+      },
+      {
+        "name": "Wei",
+        "base": "Shanghai, China",
+        "childhood": "live-017",
+        "invented": [],
+        "jobs": [],
+        "inner": [],
+        "text": "Your dad Baba and your mom Mama worked away from Shanghai, and they came back to Nainai's flat in Pudong for the new year with bags full of things and eyes that closed at dinner. Nainai raised you in two rooms with a rice cooker that clicked and steamed on the counter. Pudong No. 2 was loud and packed, and you were the one who read the printed notices aloud for the older neighbors in the building. You translated Nainai to Baba and Mama, and Baba and Mama back to Nainai. When the phone call came about what came next, you said no. Nainai set a bowl in front of you and said nothing. You still cannot be in a room without knowing where the exit is. Now every phone call from Baba feels like a question you already answered. Nainai's kitchen is still the only place your shoulders drop."
+      },
+      {
+        "name": "Ximena",
+        "base": "Mexico City, Mexico",
+        "childhood": "live-023",
+        "invented": [],
+        "jobs": [
+          "teacher"
+        ],
+        "inner": [],
+        "text": "Your dad Beto was there and then he was not, and his absence had a shape the way a chair has a shape when it is always empty. Your mom Lupita held your hand at every crossing and told you the world had teeth for girls who were not paying attention. She kept the electricity money in a coffee tin, and when it was empty you and she did homework by the window until the dark made it impossible. At Escuela Benito Juárez there was one teacher, Maestra Reyes, who told you once that you had a mind like a river, and you carried that sentence through the move and further. In the afternoons you took on what needed to be done while Lupita handled what she had to handle. You arrived in the new place as the new one. Some boxes are still closed. You still check every tin before you let yourself need something. You are still the one who stays after the lights go out. You still arrive somewhere new and wait for permission to unpack."
+      },
+      {
+        "name": "Jonah",
+        "base": "United States",
+        "childhood": "live-004",
+        "invented": [],
+        "jobs": [],
+        "inner": [],
+        "text": "Your mom Tammy told you the secret before anyone else knew. You were young. The house had its own weather, and you learned to read it from the way a door closed, the way a chair scraped back, the way Bill moved through a room. Everyone at Cy-Fair had known you since kindergarten, which meant nobody could see that anything had shifted, which was what everyone seemed to need. You got good at making yourself useful in that space between Tammy and Bill, good at being the thing that steadied the room. Then Danny was your best friend until Danny got a truck and you did not. Every morning Danny drove past the bus stop. You stood there and watched the truck pass. Around that same time you found something that was yours alone, something with no weather to read, no door to listen for, no room to steady. Being needed was the nearest thing to being seen, so you learned to be very good at it. You still scan every room before you let yourself sit down. You are always the one who notices when something is wrong. You hold still at bus stops, watching what passes you by."
+      },
+      {
+        "name": "Isabel",
+        "base": "Lima, Peru",
+        "childhood": "live-008",
+        "invented": [],
+        "jobs": [
+          "teacher"
+        ],
+        "inner": [],
+        "text": "Your dad Papá stayed somewhere at the edges of your growing up, present in photographs and the occasional call, his name said differently depending on whether Nelly was in the room. Your mom Nelly held the shape of every day, her hands the first thing you saw in the morning and the last sound you heard at night, her stories always ending with what happened to girls who were not careful. At Colegio 40015 there was one teacher, Señor Paredes, who said you had a mind like a river, and you carried the sentence when the family moved from Arequipa to Lima. Afternoons, you took on what needed to be done. You arrived in Lima as the new one. You still check exits before you sit down anywhere. You still wait for someone to say you can stop. You still move through rooms like you might have to leave them."
+      },
+      {
+        "name": "Ananya",
+        "base": "Mumbai, India",
+        "childhood": "live-011",
+        "invented": [],
+        "jobs": [
+          "teacher"
+        ],
+        "inner": [],
+        "text": "Your grades were read aloud before dinner was served. Your mom Sunita kept you inside when the sky turned and listed what the city did to children who went out in it. At Balmohan the classrooms were full and the ceiling fans were slow and one teacher knew your name because you always finished first. Your cousin Vikram was the unit of measurement for everything, and every phone call from that side of the family curved back to his percentage before it ended. When you won, your dad Rajesh called everyone he had a number for, and for one day the story the family told was the story of you. Rajesh paid the Balmohan fee in three parts across the term, and the office clerk said your name out loud each time at the counter, in front of whoever was standing there. You were praised for one thing, again and again, until the one thing was all there was. You still wait for a result before you feel like enough. You still scan every room for the person measuring you. Approval still feels like something you have to keep re-earning."
+      },
+      {
+        "name": "Diego",
+        "base": "Mexico City, Mexico",
+        "childhood": "live-021",
+        "invented": [],
+        "jobs": [
+          "teacher"
+        ],
+        "inner": [],
+        "text": "Your dad Toño was gone before the front door opened in the morning. Your mom Chela kept the house moving on a number she carried in her head, adjusted it without writing it down, and the house kept moving. Primaria Morelos was loud and packed and had one teacher with one piece of chalk, and you translated for the whole row when the words came from somewhere else. When you won, your abuela Carmen told everyone she could reach and lit a candle the same afternoon. Her kitchen had no problems in it. Los de la esquina picked teams every afternoon and you were picked last until you could keep goal. Then you were picked first. Chela's kitchen smelled of something green and specific. Toño came back after the house was already quiet. Abuela Carmen's candle burned down. You still move between one world and another. You still position yourself where no one else wants to stand. You still keep the number in your head without writing it down. You still translate, even when no one asked you to."
+      }
+    ]
+  },
+  "gbrain": {
+    "brain": "/Users/apple/Souling/childhood-brain/.scratch-home",
+    "n": 25,
+    "agreement": 20,
+    "agreement_rate": 0.8,
+    "agreement_live_only": 20,
+    "agreement_live_only_rate": 0.8,
+    "no_result": 0,
+    "rows": [
+      {
+        "id": "live-001",
+        "expect": "childhoods/live-001",
+        "top": "childhoods/live-001",
+        "top_live": "childhoods/live-001",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-002",
+        "expect": "childhoods/live-002",
+        "top": "childhoods/live-002",
+        "top_live": "childhoods/live-002",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-003",
+        "expect": "childhoods/live-003",
+        "top": "childhoods/live-003",
+        "top_live": "childhoods/live-003",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-004",
+        "expect": "childhoods/live-004",
+        "top": "childhoods/live-004",
+        "top_live": "childhoods/live-004",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-005",
+        "expect": "childhoods/live-005",
+        "top": "childhoods/live-005",
+        "top_live": "childhoods/live-005",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-006",
+        "expect": "childhoods/live-006",
+        "top": "childhoods/live-021",
+        "top_live": "childhoods/live-021",
+        "agree": false,
+        "agree_live_only": false
+      },
+      {
+        "id": "live-007",
+        "expect": "childhoods/live-007",
+        "top": "childhoods/live-022",
+        "top_live": "childhoods/live-022",
+        "agree": false,
+        "agree_live_only": false
+      },
+      {
+        "id": "live-008",
+        "expect": "childhoods/live-008",
+        "top": "childhoods/live-023",
+        "top_live": "childhoods/live-023",
+        "agree": false,
+        "agree_live_only": false
+      },
+      {
+        "id": "live-009",
+        "expect": "childhoods/live-009",
+        "top": "childhoods/live-024",
+        "top_live": "childhoods/live-024",
+        "agree": false,
+        "agree_live_only": false
+      },
+      {
+        "id": "live-010",
+        "expect": "childhoods/live-010",
+        "top": "childhoods/live-025",
+        "top_live": "childhoods/live-025",
+        "agree": false,
+        "agree_live_only": false
+      },
+      {
+        "id": "live-011",
+        "expect": "childhoods/live-011",
+        "top": "childhoods/live-011",
+        "top_live": "childhoods/live-011",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-012",
+        "expect": "childhoods/live-012",
+        "top": "childhoods/live-012",
+        "top_live": "childhoods/live-012",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-013",
+        "expect": "childhoods/live-013",
+        "top": "childhoods/live-013",
+        "top_live": "childhoods/live-013",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-014",
+        "expect": "childhoods/live-014",
+        "top": "childhoods/live-014",
+        "top_live": "childhoods/live-014",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-015",
+        "expect": "childhoods/live-015",
+        "top": "childhoods/live-015",
+        "top_live": "childhoods/live-015",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-016",
+        "expect": "childhoods/live-016",
+        "top": "childhoods/live-016",
+        "top_live": "childhoods/live-016",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-017",
+        "expect": "childhoods/live-017",
+        "top": "childhoods/live-017",
+        "top_live": "childhoods/live-017",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-018",
+        "expect": "childhoods/live-018",
+        "top": "childhoods/live-018",
+        "top_live": "childhoods/live-018",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-019",
+        "expect": "childhoods/live-019",
+        "top": "childhoods/live-019",
+        "top_live": "childhoods/live-019",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-020",
+        "expect": "childhoods/live-020",
+        "top": "childhoods/live-020",
+        "top_live": "childhoods/live-020",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-021",
+        "expect": "childhoods/live-021",
+        "top": "childhoods/live-021",
+        "top_live": "childhoods/live-021",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-022",
+        "expect": "childhoods/live-022",
+        "top": "childhoods/live-022",
+        "top_live": "childhoods/live-022",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-023",
+        "expect": "childhoods/live-023",
+        "top": "childhoods/live-023",
+        "top_live": "childhoods/live-023",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-024",
+        "expect": "childhoods/live-024",
+        "top": "childhoods/live-024",
+        "top_live": "childhoods/live-024",
+        "agree": true,
+        "agree_live_only": true
+      },
+      {
+        "id": "live-025",
+        "expect": "childhoods/live-025",
+        "top": "childhoods/live-025",
+        "top_live": "childhoods/live-025",
+        "agree": true,
+        "agree_live_only": true
+      }
+    ]
+  }
+}

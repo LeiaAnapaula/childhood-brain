@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "gbrain": {
+      "type": "stdio",
+      "command": "/Users/apple/.bun/bin/gbrain",
+      "args": ["serve"]
+    }
+  }
+}

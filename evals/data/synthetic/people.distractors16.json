@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "p001",
+    "name": "Ines",
+    "bucket": "1990s/south-america",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Ines"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Bogota"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "1990s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "storm"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "protector"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "village"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "translator"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "grandparent"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "seen"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "none"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "standing between two rooms"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "by protecting"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "the mood changing without warning"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "being the one who left"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "reads doors and footsteps"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "holds on tighter"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Moods no one named. I became a reader of doors and footsteps. My intuition was born as a survival skill."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Forty-minute ride, same faces for twelve years. Leaving was the plan or the sin."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "Between languages, between parents, between worlds. I became the bridge."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "One older person who had time. Their kitchen was the safest room in the world."
+      }
+    ]
+  },
+  {
+    "id": "p002",
+    "name": "Jun",
+    "bucket": "2000s/south-asia",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Jun"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Chennai"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "2000s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "provider"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "storm"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "public"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "illness"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "responsibility"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "comparison"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "summer"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "waiting rooms"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "in the calm between weathers"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "being provided for but not seen"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "losing rank at the table"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "gets organized and goes quiet"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "goes silent and watchful"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Present through rules, money, and silence. Love was structure. I learned that being provided for and being seen are different things."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Buses, tests, a gifted track, and a lunch table that decided my rank."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "Mine or theirs. Waiting rooms. Learning that bodies can fail."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "I raised a sibling or ran the house before I was twelve."
+      }
+    ]
+  },
+  {
+    "id": "p003",
+    "name": "Zara",
+    "bucket": "1990s/north-america",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Zara"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Miami"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "1990s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "friend"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "constant"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "public"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "humiliation"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "shamed"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "grandparent"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "needed"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "being unseen"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "by staying"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "having no adult in the room"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "losing rank at the table"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "becomes the grown-up in the room"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "stays and listens"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "A parent who never grew up. I heard adult secrets at nine and became the grown-up in the house."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Buses, tests, a gifted track, and a lunch table that decided my rank."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "One moment in front of everyone. I decided something about visibility that day."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "I did the wrong thing and it became who I was for a year. I learned to hide."
+      }
+    ]
+  },
+  {
+    "id": "p004",
+    "name": "Mara",
+    "bucket": "1990s/latin-america",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Mara"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Guadalajara"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "1990s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "provider"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "storm"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "elite"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "first-no"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "win"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "rupture"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "none"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "the refusal"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "in the calm between weathers"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "being provided for but not seen"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "being found out"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "gets organized and goes quiet"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "goes silent and watchful"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Present through rules, money, and silence. Love was structure. I learned that being provided for and being seen are different things."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Everyone's parent was someone. I learned what money sounds like when it is quiet."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "I refused something everyone expected. It cost I and it made I."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "A trophy, a scholarship, a stage. For one day the family story was about I, and it was good."
+      }
+    ]
+  },
+  {
+    "id": "p005",
+    "name": "Rosa",
+    "bucket": "1990s/north-america",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Rosa"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Toronto"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "1990s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "absent"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "friend"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "public"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "first-no"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "secret"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "shamed"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "seen"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "the refusal"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "as an equal"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "being left"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "losing rank at the table"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "talks to the image instead of the person"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "makes it a joke"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Gone, or there and not there. I built an image to talk to. The image became more real than the person."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Buses, tests, a gifted track, and a lunch table that decided my rank."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "I refused something everyone expected. It cost I and it made I."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "Something in the family nobody said out loud. I learned to hold what could not be held."
+      }
+    ]
+  },
+  {
+    "id": "p006",
+    "name": "Omar",
+    "bucket": "1980s/south-asia",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Omar"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Chennai"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "1980s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "provider"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "storm"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "religious"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "illness"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "first-no"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "money"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "humiliation"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "waiting rooms"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "in the calm between weathers"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "being provided for but not seen"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "being shamed in front of everyone who knows the family"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "gets organized and goes quiet"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "goes silent and watchful"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Present through rules, money, and silence. Love was structure. I learned that being provided for and being seen are different things."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Uniforms, prayer, one teacher who knew my whole family. Shame and belonging arrived together."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "Mine or theirs. Waiting rooms. Learning that bodies can fail."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "I refused something everyone expected. It cost I and it made I."
+      }
+    ]
+  },
+  {
+    "id": "p007",
+    "name": "Elif",
+    "bucket": "2000s/north-america",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Elif"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Bay Area"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "2000s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "absent"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "striver"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "underfunded"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "trait"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "translator"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "comparison"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "forgiven"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "being praised for the trait"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "by sacrificing"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "being left"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "being underestimated"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "talks to the image instead of the person"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "pays for it"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Gone, or there and not there. I built an image to talk to. The image became more real than the person."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Broken things, one great teacher who stayed, a library that closed early. I got sharp early."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "Smart. Pretty. Strong. Funny. I became the trait and hid the rest."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "Between languages, between parents, between worlds. I became the bridge."
+      }
+    ]
+  },
+  {
+    "id": "p008",
+    "name": "Jun",
+    "bucket": "2000s/north-america",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Jun"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Bay Area"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "2000s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "provider"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "storm"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "public"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "move"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "friend-left"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "seen"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "needed"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "packing light"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "in the calm between weathers"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "being provided for but not seen"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "losing rank at the table"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "gets organized and goes quiet"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "goes silent and watchful"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Present through rules, money, and silence. Love was structure. I learned that being provided for and being seen are different things."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Buses, tests, a gifted track, and a lunch table that decided my rank."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "A city, a country, a language. I arrived as the new kid and never fully unpacked."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "The first person I chose who chose someone else."
+      }
+    ]
+  },
+  {
+    "id": "p009",
+    "name": "Sana",
+    "bucket": "1990s/south-asia",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Sana"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Chennai"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "1990s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "constant"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "absent"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "public"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "grandparent"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "friend-left"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "move"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "none"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "a kitchen with time in it"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "from a distance"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "losing the ordinary"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "losing rank at the table"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "finds a place for the feeling to land"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "disappears"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Nourishing, steady, unremarkable. Feelings had a place to land. I did not know it was rare until I left."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Buses, tests, a gifted track, and a lunch table that decided my rank."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "One older person who had time. Their kitchen was the safest room in the world."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "The first person I chose who chose someone else."
+      }
+    ]
+  },
+  {
+    "id": "p010",
+    "name": "Omar",
+    "bucket": "1980s/north-america",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Omar"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Houston"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "1980s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "striver"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "storm"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "village"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "rupture"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "move"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "first-no"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "forgiven"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "the time before"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "in the calm between weathers"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "owing more than can be repaid"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "being the one who left"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "gives more and says less"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "goes silent and watchful"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Everything given, nothing said. Debt was the family's language. I learned that love is measured in what it costs."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Forty-minute ride, same faces for twelve years. Leaving was the plan or the sin."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "Divorce, a death, a departure. The house had a before and an after."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "A city, a country, a language. I arrived as the new kid and never fully unpacked."
+      }
+    ]
+  },
+  {
+    "id": "p011",
+    "name": "Omar",
+    "bucket": "1990s/south-america",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Omar"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Arequipa"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "1990s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "absent"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "provider"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "public"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "summer"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "friend-left"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "loved-alone"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "none"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "a world I built"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "by providing"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "being left"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "losing rank at the table"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "talks to the image instead of the person"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "sets rules"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Gone, or there and not there. I built an image to talk to. The image became more real than the person."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Buses, tests, a gifted track, and a lunch table that decided my rank."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "Weeks with no one home. I built a world to live in."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "The first person I chose who chose someone else."
+      }
+    ]
+  },
+  {
+    "id": "p012",
+    "name": "Rosa",
+    "bucket": "1990s/rural",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Rosa"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Somewhere smaller"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "1990s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "golden"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "striver"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "elite"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "friend-left"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "trait"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "win"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "needed"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "choosing first"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "by sacrificing"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "failing in front of them"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "being found out"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "performs harder"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "pays for it"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "I was their proof. Love arrived with achievement and left with failure. I became the family's myth and hid the child."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Everyone's parent was someone. I learned what money sounds like when it is quiet."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "The first person I chose who chose someone else."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "Smart. Pretty. Strong. Funny. I became the trait and hid the rest."
+      }
+    ]
+  },
+  {
+    "id": "p013",
+    "name": "Tomas",
+    "bucket": "1980s/south-america",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Tomas"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Lima"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "1980s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "absent"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "friend"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "public"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "summer"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "move"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "seen"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "translator"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "a world I built"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "as an equal"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "being left"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "losing rank at the table"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "talks to the image instead of the person"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "makes it a joke"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Gone, or there and not there. I built an image to talk to. The image became more real than the person."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Buses, tests, a gifted track, and a lunch table that decided my rank."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "Weeks with no one home. I built a world to live in."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "A city, a country, a language. I arrived as the new kid and never fully unpacked."
+      }
+    ]
+  },
+  {
+    "id": "p014",
+    "name": "Mara",
+    "bucket": "2000s/latin-america",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Mara"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Mexico City"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "2000s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "storm"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "protector"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "religious"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "rupture"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "secret"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "move"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "money"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "the time before"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "by protecting"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "the mood changing without warning"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "being shamed in front of everyone who knows the family"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "reads doors and footsteps"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "holds on tighter"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Moods no one named. I became a reader of doors and footsteps. My intuition was born as a survival skill."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Uniforms, prayer, one teacher who knew my whole family. Shame and belonging arrived together."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "Divorce, a death, a departure. The house had a before and an after."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "Something in the family nobody said out loud. I learned to hold what could not be held."
+      }
+    ]
+  },
+  {
+    "id": "p015",
+    "name": "Zara",
+    "bucket": "1980s/latin-america",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Zara"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Mexico City"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "1980s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "protector"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "striver"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "public"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "move"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "money"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "first-no"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "friend-left"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "packing light"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "by sacrificing"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "being watched, and then being unwatched"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "losing rank at the table"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "narrates every danger and cannot rest"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "pays for it"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Love that held too tight. Every danger narrated, every step watched. I learned to carry their fear before I could carry my own."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Buses, tests, a gifted track, and a lunch table that decided my rank."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "A city, a country, a language. I arrived as the new kid and never fully unpacked."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "A layoff, a lost house, a quiet downgrade. I learned to notice prices."
+      }
+    ]
+  },
+  {
+    "id": "p016",
+    "name": "Ivan",
+    "bucket": "1990s/east-asia",
+    "consent": "synthetic",
+    "facts": [
+      {
+        "field": "name",
+        "type": "facts",
+        "value": "Ivan"
+      },
+      {
+        "field": "city",
+        "type": "facts",
+        "value": "Seoul"
+      },
+      {
+        "field": "decade",
+        "type": "facts",
+        "value": "1990s"
+      },
+      {
+        "field": "parent1",
+        "type": "facts",
+        "value": "striver"
+      },
+      {
+        "field": "parent2",
+        "type": "facts",
+        "value": "protector"
+      },
+      {
+        "field": "school",
+        "type": "facts",
+        "value": "village"
+      },
+      {
+        "field": "event1",
+        "type": "facts",
+        "value": "translator"
+      },
+      {
+        "field": "event2",
+        "type": "facts",
+        "value": "illness"
+      },
+      {
+        "field": "event3",
+        "type": "facts",
+        "value": "loved-alone"
+      },
+      {
+        "field": "event4",
+        "type": "facts",
+        "value": "needed"
+      },
+      {
+        "field": "comfort",
+        "type": "preferences",
+        "value": "standing between two rooms"
+      },
+      {
+        "field": "way_of_loving",
+        "type": "preferences",
+        "value": "by protecting"
+      },
+      {
+        "field": "core_fear",
+        "type": "fears",
+        "value": "owing more than can be repaid"
+      },
+      {
+        "field": "social_fear",
+        "type": "fears",
+        "value": "being the one who left"
+      },
+      {
+        "field": "under_stress",
+        "type": "stress",
+        "value": "gives more and says less"
+      },
+      {
+        "field": "under_conflict",
+        "type": "stress",
+        "value": "holds on tighter"
+      },
+      {
+        "field": "fragment_1",
+        "type": "fragments",
+        "value": "Everything given, nothing said. Debt was the family's language. I learned that love is measured in what it costs."
+      },
+      {
+        "field": "fragment_2",
+        "type": "fragments",
+        "value": "Forty-minute ride, same faces for twelve years. Leaving was the plan or the sin."
+      },
+      {
+        "field": "fragment_3",
+        "type": "fragments",
+        "value": "Between languages, between parents, between worlds. I became the bridge."
+      },
+      {
+        "field": "fragment_4",
+        "type": "fragments",
+        "value": "Mine or theirs. Waiting rooms. Learning that bodies can fail."
+      }
+    ]
+  }
+]

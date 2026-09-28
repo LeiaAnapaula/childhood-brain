@@ -1,0 +1,217 @@
+{
+  "_readme": "Public figures encoded into the childhood-brain schema from published biographies. consent=public means: no private data, only facts the person has stated on record or that appear in mainstream published biographies. Every judgment call is labeled in `labels` with evidence and a confidence (high/med/low). `outcome` is the adult ground truth and must NEVER be passed to a brain; evals/outcomes.ts keeps it hidden. Seed slugs come from evals/brains/prototype-data.ts; preference/fear/stress values come from the closed tables in evals/data/derive.ts, chosen by the labeler to best fit the documented adult, not derived mechanically from the picks.",
+  "people": [
+    {
+      "id": "elon",
+      "name": "Elon",
+      "bucket": "1970s/africa",
+      "consent": "public",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Errol_Musk",
+        "https://futurism.com/elon-musk-bullied-high-school",
+        "https://www.slashgear.com/1113788/elon-musk-made-this-video-game-when-he-was-12-years-old-heres-how-you-can-play-it/",
+        "Maye Musk, A Woman Makes a Plan (2019); Walter Isaacson, Elon Musk (2023)"
+      ],
+      "labels": {
+        "parent1": { "evidence": "Errol Musk: engineer, wealthy, but Elon and Maye both describe belittling, hours-long lectures, and abuse; Elon calls him 'a terrible human being'. Moods set the weather of the house.", "confidence": "high" },
+        "parent2": { "evidence": "Maye Musk after the 1979 divorce: multiple jobs, frugal, sacrificed for three kids; Elon lived mostly with Errol from ~10, so Maye's love arrived as sacrifice at a distance.", "confidence": "med" },
+        "school": { "evidence": "Waterkloof House Preparatory, Bryanston High, then Pretoria Boys High School, an elite boys' school. Isaacson describes the money-and-status culture.", "confidence": "med" },
+        "event1": { "evidence": "Parents divorced 1979 when he was eight; the house had a before and an after.", "confidence": "high" },
+        "event2": { "evidence": "Bullied for years; at ~12 thrown down concrete stairs and hospitalized.", "confidence": "high" },
+        "event3": { "evidence": "Read the encyclopedia, then taught himself to code; wrote and sold the game Blastar at 12.", "confidence": "high" },
+        "event4": { "evidence": "At 17 left South Africa for Canada against his father's wishes and to avoid conscription.", "confidence": "high" },
+        "comfort": { "evidence": "Retreats into books, engineering, work; the things nobody gave him.", "confidence": "med" },
+        "way_of_loving": { "evidence": "Describes care mostly as providing and building for people; many children, funds, projects.", "confidence": "low" },
+        "core_fear": { "evidence": "Closest closed-set value to a child of a volatile father; his stated fears (civilizational collapse) are not in the vocabulary.", "confidence": "low" },
+        "social_fear": { "evidence": "Documented compulsion to answer doubters and short-sellers; bullied kid who now cannot let 'they said it was impossible' stand.", "confidence": "med" },
+        "under_stress": { "evidence": "Works more: factory floor, 100-hour weeks, sleeping at the plant during Model 3 ramp.", "confidence": "high" },
+        "under_conflict": { "evidence": "Escalates publicly and treats every fight as a contest to win (SEC, journalists, unions, Twitter).", "confidence": "high" }
+      },
+      "outcome": {
+        "path": "founder", "scale": "global", "visibility": "public-figure", "risk_appetite": "extreme", "authority": "fights",
+        "summary": "Co-founded Zip2, X.com/PayPal, SpaceX, Tesla (CEO), Neuralink, The Boring Company, xAI; bought Twitter. Repeatedly the richest person alive."
+      },
+      "facts": [
+        { "field": "name", "type": "facts", "value": "Elon" },
+        { "field": "city", "type": "facts", "value": "Pretoria" },
+        { "field": "decade", "type": "facts", "value": "1970s" },
+        { "field": "parent1", "type": "facts", "value": "storm" },
+        { "field": "parent2", "type": "facts", "value": "striver" },
+        { "field": "school", "type": "facts", "value": "elite" },
+        { "field": "event1", "type": "facts", "value": "rupture" },
+        { "field": "event2", "type": "facts", "value": "humiliation" },
+        { "field": "event3", "type": "facts", "value": "loved-alone" },
+        { "field": "event4", "type": "facts", "value": "first-no" },
+        { "field": "comfort", "type": "preferences", "value": "the thing nobody gave me" },
+        { "field": "way_of_loving", "type": "preferences", "value": "by providing" },
+        { "field": "core_fear", "type": "fears", "value": "the mood changing without warning" },
+        { "field": "social_fear", "type": "fears", "value": "being underestimated" },
+        { "field": "under_stress", "type": "stress", "value": "performs harder" },
+        { "field": "under_conflict", "type": "stress", "value": "turns it into a test to win" },
+        { "field": "fragment_1", "type": "fragments", "value": "My father could talk at us for hours and we were not allowed to leave the room. I learned to read the house before I learned to read the room." },
+        { "field": "fragment_2", "type": "fragments", "value": "The older boys threw me down the concrete stairs and I woke up in hospital. School was a place to survive and books were the way out." },
+        { "field": "fragment_3", "type": "fragments", "value": "My parents split when I was eight. I chose to live with my father because he seemed alone. I have said since that it was a mistake." },
+        { "field": "fragment_4", "type": "fragments", "value": "At twelve I wrote a space game called Blastar and a magazine paid me five hundred dollars for it. It was the first thing that was entirely mine." }
+      ]
+    },
+    {
+      "id": "sam",
+      "name": "Sam",
+      "bucket": "1980s/north-america",
+      "consent": "public",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sam_Altman",
+        "https://www.britannica.com/money/Sam-Altman",
+        "Tad Friend, 'Sam Altman's Manifest Destiny', The New Yorker (2016)",
+        "Keach Hagey, The Optimist (2025)"
+      ],
+      "labels": {
+        "parent1": { "evidence": "Connie Gibstine, dermatologist; steady, accepting ('I always thought of him as just sort of unisexual and tech-y'). Feelings had a place to land.", "confidence": "med" },
+        "parent2": { "evidence": "Jerry Altman, real estate broker, remembered for helping anyone who asked; present and ordinary.", "confidence": "med" },
+        "school": { "evidence": "John Burroughs School, a private prep school in St. Louis.", "confidence": "high" },
+        "event1": { "evidence": "Got a Macintosh at eight, took it apart, learned to program.", "confidence": "high" },
+        "event2": { "evidence": "At 17 came out to the whole school in an assembly speech after a Christian group tried to boycott a sexuality assembly; standing ovation.", "confidence": "high" },
+        "event3": { "evidence": "Praised as the smart one from nursery school (grasped area codes at four).", "confidence": "med" },
+        "event4": { "evidence": "The assembly speech and the ovation: for one day the story was about him and it was good. Also Stanford admission.", "confidence": "low" },
+        "comfort": { "evidence": "Computers and building; the thing nobody gave him.", "confidence": "med" },
+        "way_of_loving": { "evidence": "Loyalty-based; stays with people and institutions (YC, OpenAI) through crises.", "confidence": "low" },
+        "core_fear": { "evidence": "Closed-set best fit for a lifelong top student who frames everything as a bet he must not lose in public.", "confidence": "low" },
+        "social_fear": { "evidence": "Elite-school pattern; repeated public concern with being seen as trustworthy or 'not consistently candid'.", "confidence": "low" },
+        "under_stress": { "evidence": "November 2023 firing: stayed calm, organized, quiet, and let others make noise.", "confidence": "high" },
+        "under_conflict": { "evidence": "Turned the board fight into a contest he won within five days.", "confidence": "high" }
+      },
+      "outcome": {
+        "path": "founder", "scale": "global", "visibility": "public-figure", "risk_appetite": "high", "authority": "negotiates",
+        "summary": "Founded Loopt at 19, president of Y Combinator, co-founded and runs OpenAI (ChatGPT); fired and reinstated as CEO in 2023."
+      },
+      "facts": [
+        { "field": "name", "type": "facts", "value": "Sam" },
+        { "field": "city", "type": "facts", "value": "St. Louis" },
+        { "field": "decade", "type": "facts", "value": "1980s" },
+        { "field": "parent1", "type": "facts", "value": "constant" },
+        { "field": "parent2", "type": "facts", "value": "constant" },
+        { "field": "school", "type": "facts", "value": "elite" },
+        { "field": "event1", "type": "facts", "value": "loved-alone" },
+        { "field": "event2", "type": "facts", "value": "first-no" },
+        { "field": "event3", "type": "facts", "value": "trait" },
+        { "field": "event4", "type": "facts", "value": "win" },
+        { "field": "comfort", "type": "preferences", "value": "the thing nobody gave me" },
+        { "field": "way_of_loving", "type": "preferences", "value": "by staying" },
+        { "field": "core_fear", "type": "fears", "value": "failing in front of them" },
+        { "field": "social_fear", "type": "fears", "value": "being found out" },
+        { "field": "under_stress", "type": "stress", "value": "gets organized and goes quiet" },
+        { "field": "under_conflict", "type": "stress", "value": "turns it into a test to win" },
+        { "field": "fragment_1", "type": "fragments", "value": "My mother was a dermatologist and my father sold real estate and helped anyone who asked him. Nothing at home needed managing." },
+        { "field": "fragment_2", "type": "fragments", "value": "I got a Macintosh at eight and took it apart to see how it worked. Nobody gave me that and nobody could take it." },
+        { "field": "fragment_3", "type": "fragments", "value": "At seventeen I stood up in front of the whole school and said I was gay, after a Christian group tried to shut the assembly down. I had rewritten the speech all night in the hallway." },
+        { "field": "fragment_4", "type": "fragments", "value": "I was the smart one before I was anything else, the kid who understood how area codes worked in nursery school." }
+      ]
+    },
+    {
+      "id": "mark",
+      "name": "Mark",
+      "bucket": "1980s/north-america",
+      "consent": "public",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+        "https://www.nbcnews.com/id/wbna41430360",
+        "Jose Antonio Vargas, 'The Face of Facebook', The New Yorker (2010)",
+        "https://time.com/3586699/a-zuckerberg-family-album/"
+      ],
+      "labels": {
+        "parent1": { "evidence": "Karen Kempner, psychiatrist who stopped practicing to raise four kids; steady household in Dobbs Ferry.", "confidence": "high" },
+        "parent2": { "evidence": "Edward Zuckerberg, dentist with the practice attached to the house; taught Mark Atari BASIC, said 'find what they're passionate about' rather than push. Present and ordinary rather than hero-making.", "confidence": "med" },
+        "school": { "evidence": "Ardsley High School (public) then Phillips Exeter Academy, one of the most elite boarding schools in the country.", "confidence": "high" },
+        "event1": { "evidence": "Father hired software developer David Newman to tutor him at ~11; Newman called him a prodigy and said it was hard to stay ahead of him.", "confidence": "high" },
+        "event2": { "evidence": "Coding as the private world: ZuckNet at 11-12 connecting the house to the dental office.", "confidence": "high" },
+        "event3": { "evidence": "Synapse Media Player at 17 drew acquisition interest from Microsoft and AOL; fencing team captain at Exeter.", "confidence": "high" },
+        "event4": { "evidence": "Labeled a prodigy early; the smart one across four siblings.", "confidence": "med" },
+        "comfort": { "evidence": "Coding, the private world nobody gave him.", "confidence": "med" },
+        "way_of_loving": { "evidence": "Long, steady relationships (Priscilla Chan since 2003); loyalty to early team.", "confidence": "low" },
+        "core_fear": { "evidence": "Closed-set best fit; his stated fear is irrelevance ('if we don't build the thing that kills Facebook, someone else will').", "confidence": "low" },
+        "social_fear": { "evidence": "Elite-school pattern plus well-documented discomfort in public scrutiny (2018 Senate hearings).", "confidence": "low" },
+        "under_stress": { "evidence": "Declares 'lockdown', organizes the company, goes quiet publicly.", "confidence": "high" },
+        "under_conflict": { "evidence": "Treats competitors as tests to win: copied Snapchat Stories, launched Threads against X, challenged Musk to a cage fight.", "confidence": "high" }
+      },
+      "outcome": {
+        "path": "founder", "scale": "global", "visibility": "public-figure", "risk_appetite": "high", "authority": "builds-own",
+        "summary": "Founded Facebook at 19 in a Harvard dorm; founder, chairman and CEO of Meta; one of the five richest people alive."
+      },
+      "facts": [
+        { "field": "name", "type": "facts", "value": "Mark" },
+        { "field": "city", "type": "facts", "value": "Dobbs Ferry" },
+        { "field": "decade", "type": "facts", "value": "1980s" },
+        { "field": "parent1", "type": "facts", "value": "constant" },
+        { "field": "parent2", "type": "facts", "value": "constant" },
+        { "field": "school", "type": "facts", "value": "elite" },
+        { "field": "event1", "type": "facts", "value": "seen" },
+        { "field": "event2", "type": "facts", "value": "loved-alone" },
+        { "field": "event3", "type": "facts", "value": "win" },
+        { "field": "event4", "type": "facts", "value": "trait" },
+        { "field": "comfort", "type": "preferences", "value": "the thing nobody gave me" },
+        { "field": "way_of_loving", "type": "preferences", "value": "by staying" },
+        { "field": "core_fear", "type": "fears", "value": "failing in front of them" },
+        { "field": "social_fear", "type": "fears", "value": "being found out" },
+        { "field": "under_stress", "type": "stress", "value": "gets organized and goes quiet" },
+        { "field": "under_conflict", "type": "stress", "value": "turns it into a test to win" },
+        { "field": "fragment_1", "type": "fragments", "value": "My mother was a psychiatrist and my father a dentist with the office attached to the house. Dinner happened every night and it was fine." },
+        { "field": "fragment_2", "type": "fragments", "value": "My father taught me Atari BASIC and then hired a programmer to tutor me. The tutor said it was hard to stay ahead of me. I was eleven." },
+        { "field": "fragment_3", "type": "fragments", "value": "I built a program so the computers in the house could talk to the ones in the dental office. I called it ZuckNet." },
+        { "field": "fragment_4", "type": "fragments", "value": "At boarding school I wrote a music player that learned what you liked. Companies offered to buy it and I said no and went to college instead." }
+      ]
+    },
+    {
+      "id": "garry",
+      "name": "Garry",
+      "bucket": "1980s/north-america",
+      "consent": "public",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Garry_Tan",
+        "https://sf.gazetteer.co/into-the-garryverse",
+        "https://sfstandard.com/2023/09/27/garry-tan-y-combinator-declares-war-on-san-francisco-politics-progressives-elon-musk/",
+        "Garry Tan, own account of his father's alcoholism and the family's food scarcity (podcasts and blog)"
+      ],
+      "labels": {
+        "parent1": { "evidence": "Father: mechanical engineer from Singapore who drank heavily and changed jobs often; Garry describes an angry alcoholic who prioritized beer over groceries.", "confidence": "high" },
+        "parent2": { "evidence": "Mother from Burma: two jobs including a convalescent home, limited English kept her from becoming a nurse; everything given, nothing said.", "confidence": "high" },
+        "school": { "evidence": "Fremont, California public schools after the family settled there in 1991; specific school not verified.", "confidence": "med" },
+        "event1": { "evidence": "Periods of food scarcity: bread and milk weeks; father's unstable employment.", "confidence": "high" },
+        "event2": { "evidence": "Immigrant kid doing the forms and the English for parents with limited English.", "confidence": "med" },
+        "event3": { "evidence": "Born in Winnipeg, moved to California, back to Canada, then Fremont in 1991: the new kid more than once.", "confidence": "high" },
+        "event4": { "evidence": "Taught himself to code at 14 and cold-called the Yellow Pages for web work to help his parents buy a house.", "confidence": "high" },
+        "comfort": { "evidence": "Says he still tracks prices and money as safety.", "confidence": "med" },
+        "way_of_loving": { "evidence": "The mother's pattern; his YC identity is built on giving to founders.", "confidence": "low" },
+        "core_fear": { "evidence": "Child of an alcoholic: the mood changing without warning.", "confidence": "med" },
+        "social_fear": { "evidence": "Immigrant kid who fights being underestimated; central to his public persona.", "confidence": "med" },
+        "under_stress": { "evidence": "Hypervigilance he has discussed in the context of therapy; reads the room and the door.", "confidence": "med" },
+        "under_conflict": { "evidence": "Escalates publicly and picks winnable fights (San Francisco politics, GrowSF).", "confidence": "high" }
+      },
+      "outcome": {
+        "path": "founder", "scale": "global", "visibility": "public-figure", "risk_appetite": "high", "authority": "fights",
+        "summary": "Co-founded Posterous (acquired by Twitter), Initialized Capital (early Coinbase, Instacart); president and CEO of Y Combinator since 2023; prominent SF political fighter."
+      },
+      "facts": [
+        { "field": "name", "type": "facts", "value": "Garry" },
+        { "field": "city", "type": "facts", "value": "Fremont" },
+        { "field": "decade", "type": "facts", "value": "1980s" },
+        { "field": "parent1", "type": "facts", "value": "storm" },
+        { "field": "parent2", "type": "facts", "value": "striver" },
+        { "field": "school", "type": "facts", "value": "public" },
+        { "field": "event1", "type": "facts", "value": "money" },
+        { "field": "event2", "type": "facts", "value": "translator" },
+        { "field": "event3", "type": "facts", "value": "move" },
+        { "field": "event4", "type": "facts", "value": "loved-alone" },
+        { "field": "comfort", "type": "preferences", "value": "knowing the prices" },
+        { "field": "way_of_loving", "type": "preferences", "value": "by sacrificing" },
+        { "field": "core_fear", "type": "fears", "value": "the mood changing without warning" },
+        { "field": "social_fear", "type": "fears", "value": "being underestimated" },
+        { "field": "under_stress", "type": "stress", "value": "reads doors and footsteps" },
+        { "field": "under_conflict", "type": "stress", "value": "turns it into a test to win" },
+        { "field": "fragment_1", "type": "fragments", "value": "My father was a mechanical engineer who drank too much and changed jobs a lot. I learned the difference between a good night and a bad one from the sound of the door." },
+        { "field": "fragment_2", "type": "fragments", "value": "My mother worked two jobs, one at a convalescent home, and never got to become the nurse she wanted to be. Her English was not enough for the forms, so I did them." },
+        { "field": "fragment_3", "type": "fragments", "value": "Some weeks it was bread and milk. I knew what a case of beer cost before I knew what rent was." },
+        { "field": "fragment_4", "type": "fragments", "value": "At fourteen I taught myself to make webpages and cold-called businesses out of the Yellow Pages so my parents could buy a house." }
+      ]
+    }
+  ]
+}
