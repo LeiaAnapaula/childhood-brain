@@ -2,6 +2,46 @@
 
 Newest run first. JSON per run sits next to this file.
 
+## llm-fable.d16
+
+brain: **llm:fable** · people: 16 · seed: 7 · 2026-09-28T00:11Z
+
+| Eval | Score | Baseline / chance | Lift |
+|---|---|---|---|
+| held_out_recall (headline) | 41.7% (40/96) | 14.6% base rate | +27.1 pts |
+
+held_out_recall by fact type:
+
+| Type | n | Brain | Baseline | Lift |
+|---|---|---|---|---|
+| facts | 50 | 48.0% | 12.0% | +36.0 pts |
+| preferences | 8 | 37.5% | 12.5% | +25.0 pts |
+| fears | 10 | 80.0% | 30.0% | +50.0 pts |
+| stress | 10 | 20.0% | 10.0% | +10.0 pts |
+| fragments | 18 | 16.7% | 16.7% | +0.0 pts |
+
+Weakest fact type: **fragments** (16.7% accuracy, +0.0 pts over base rate).
+
+## llm-opus.d16
+
+brain: **llm:opus** · people: 16 · seed: 7 · 2026-09-28T00:05Z
+
+| Eval | Score | Baseline / chance | Lift |
+|---|---|---|---|
+| held_out_recall (headline) | 35.4% (34/96) | 14.6% base rate | +20.8 pts |
+
+held_out_recall by fact type:
+
+| Type | n | Brain | Baseline | Lift |
+|---|---|---|---|---|
+| facts | 50 | 48.0% | 12.0% | +36.0 pts |
+| preferences | 8 | 25.0% | 12.5% | +12.5 pts |
+| fears | 10 | 40.0% | 30.0% | +10.0 pts |
+| stress | 10 | 40.0% | 10.0% | +30.0 pts |
+| fragments | 18 | 0.0% | 16.7% | -16.7 pts |
+
+Weakest fact type: **fragments** (0.0% accuracy, -16.7 pts over base rate).
+
 ## llm-sonnet.d16
 
 brain: **llm:sonnet** · people: 16 · seed: 7 · 2026-09-28T00:01Z
